@@ -1,3 +1,5 @@
+#Terra Hack Club Submission: Wordle Game
 
-The New York Times Wordle game that runs in terminal.
+Click the badge bellow to run and play the game directly in your web browser
+[Click here to play the Wordle Game instantly in your browser!](https://google.com)
 
